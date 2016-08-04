@@ -1,0 +1,32 @@
+_repo: Notes-By-the-Way-in-a-Sailor-s-Life_4673
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Knights, Arthur E.
+    gutenberg_agent_id: '1542'
+    url: http://www.gutenberg.org/2009/agents/1542
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4673'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Seafaring life'
+- !lcc 'VK'
+- !lcsh 'Knights, Arthur E.'
+- !lcc 'PR'
+- !lcsh 'Sailors -- England -- Biography'
+- GITenberg
+tableOfContents: A quick passage -- A record long passage -- A voyage of misfortune
+  -- Beginning of the German navy -- An incident in Hongkong harbour -- A singular
+  meeting -- A little railway experience -- A good record in life-saving -- Presentation
+  of a telescope by the British government -- The ship "Bombay" -- Is there a fatality
+  attaching to men or inanimate things? -- Chinese politeness -- A Brazilian slaver
+  -- Mary Ann Gander -- Hard times -- Memory for voices -- An incident of the great
+  Taiping Rebellion -- Conclusion.
+title: Notes By the Way in a Sailor's Life
+url: http://www.gutenberg.org/ebooks/4673
